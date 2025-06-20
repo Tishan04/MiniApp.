@@ -1,3 +1,5 @@
+#Added comment for clarity
+
 import datetime
 def greet(name):
     now = datetime.datetime.now()
